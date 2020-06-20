@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ApartmentLikesTracker</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Welcome</string>
+    <string name="menu_gallery">List Apt Likes</string>
+    <string name="menu_slideshow">Add an Apt</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="AptLikes">Apartment \"Likes\"</string>
+    <string name="img1Description">Picture of building in sunset</string>
+    <string name="appTitle">Apartment Likes Tracker</string>
+    <string name="homeLine1">Make your apartment hunting easier!</string>
+    <string name="homeLine2">Use this app to track your favorite showings</string>
+    <string name="homeLine3">You can track your favorites by recording number of bedrooms, number of bathrooms, and special notes including parking situations, trash collection, doorman facilities, storage, and laundry facilities.</string>
+    <string name="img2Description">Building during the day</string>
+    <string name="img3Description">Building in day from top</string>
+    <string name="likesTitle">Here are your \"LIKES\":</string>
+
+    <string name="newLikeTitle">Add a new \"Like\"</string>
+    <string name="Address">Address:</string>
+    <string name="addressHint">address or partial address</string>
+    <string name="Bedrooms">Number of Bedrooms:</string>
+    <string name="Baths">Number of Baths:</string>
+    <string name="Rent">Monthly Rent? $ (no decimal)</string>
+    <string name="Notes">Notes:</string>
+    <string name="notesHint">special notes here...</string>
+    <string name="buttonText" />
+    <string name="btnText">ADD THIS APT \"LIKE\"</string>
+</resources>
